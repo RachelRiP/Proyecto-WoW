@@ -1,0 +1,18 @@
+En este conjunto de datos se analiza la demografía de los jugadores de World of Warcraft (género, edad, sexualidad, etc.) y cómo juegan (rol, raza, clase) para ver si existe una asociación entre ellos. Veremos que información interesante podemos extrael de ellos.
+
+Contenido:
+Hay 14 columnas y 100 filas (sin incluir los títulos). 12 de esas columnas se obtuvieron de una encuesta de Formularios de Google y las dos últimas se agregaron a mano. Son las siguientes:
+●	Marca de tiempo: Inútil. Justo cuando se completó la encuesta.
+●	Género: El género del jugador.
+●	Sexualidad: La sexualidad del jugador.
+●	Edad: Edad del jugador.
+●	País: País en el que vive el jugador.
+●	Principal: El género del personaje principal del jugador.
+●	Facción: La facción principal del jugador.
+●	Servidor: El servidor o servidores principales del jugador.
+●	Rol: El rol o roles principales que desempeña el jugador (DPS, sanador, tanque o cualquier combinación de ellos).
+●	Clase: la(s) clase(s) que el jugador tiene como personaje principal. Esta era una pregunta en la que el encuestado podía marcar cualquier número de casillas, por lo que había muchas formas diferentes de responderla. Es difícil de analizar.
+●	Raza: la raza o razas que el jugador elige como personaje principal. Igual que la clase.
+●	Máx.: la cantidad de 110 (nivel máximo) que tiene el jugador. Única variable numérica en el conjunto de datos.
+●	Atraído: El género al que se siente atraído el jugador.
+●	Tipo: El "tipo" de persona que es el jugador. Combina género y sexualidad ("mujer gay", "hombre bisexual", etc.)
